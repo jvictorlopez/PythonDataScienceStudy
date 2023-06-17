@@ -9,4 +9,5 @@ Pandas - https://cursos.alura.com.br/certificate/8b4c82ae-7456-4420-af7a-74b737b
 
 NumPy - https://cursos.alura.com.br/certificate/9338539f-733d-481e-af63-08fa1dc9c0d2
 
+
 Espero que este repositório sirva como um recurso útil para aqueles que estão interessados em aprender mais sobre Python, Pandas, NumPy e a Ciência de Dados como um todo.
