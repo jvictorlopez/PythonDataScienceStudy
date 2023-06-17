@@ -3,7 +3,8 @@ Este é o meu repositório de estudos nas bibliotecas Pandas e NumPy da linguage
 
 Os conteúdos aqui presentes representam as habilidades e conhecimentos que adquiri ao longo dos meus estudos em Análise e Ciência de Dados na plataforma Alura. Foram ótimas experiências que me ajudaram a crescer como profissional, com exercícios desafiadores e belas experiências práticas.
 
-Certificados de Conclusão:  Pandas - https://cursos.alura.com.br/certificate/8b4c82ae-7456-4420-af7a-74b737b715a0?lang=pt_BR
+Certificados de Conclusão:
+Pandas - https://cursos.alura.com.br/certificate/8b4c82ae-7456-4420-af7a-74b737b715a0?lang=pt_BR
 
 NumPy - https://cursos.alura.com.br/certificate/9338539f-733d-481e-af63-08fa1dc9c0d2
 
