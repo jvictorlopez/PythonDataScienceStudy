@@ -11,3 +11,7 @@ NumPy - https://cursos.alura.com.br/certificate/9338539f-733d-481e-af63-08fa1dc9
 
 
 Espero que este repositório sirva como um recurso útil para aqueles que estão interessados em aprender mais sobre Python, Pandas, NumPy e a Ciência de Dados como um todo.
+
+## Box-Plot (Metodologia de Identificação de Outliers que utilizei):
+![Box-plot](https://github.com/jvictorlopez/PythonDataScienceStudy/assets/124679867/a10a4e3f-ab0c-4e2c-b8c9-77f99bf3b49a)
+
